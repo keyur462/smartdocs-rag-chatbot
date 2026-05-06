@@ -130,10 +130,6 @@ Open your browser at: http://localhost:8501
 
 ---
 
-## License
-
-MIT License — free to use and modify.
-
 ---
 
 ## Author
